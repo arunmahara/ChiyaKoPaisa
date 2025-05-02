@@ -37,7 +37,7 @@ The idea was born from observing repeated comments on YouTube where viewers expr
 * Email/password or Google login
 * KYC verification (optional in MVP)
 * Set up preferred payout method: Esewa, Khalti, Bank Account
-* Create personal short support URL (e.g., supportme.com/@creatorname)
+* Create personal short support URL (e.g., ChiyaKoPaisa.com/@creatorname)
 
 #### 2.2. **Short URL & Support Page**
 
